@@ -1,0 +1,24 @@
+.background {
+  background-color: #712cf9;
+}
+.left,
+.right {
+  width: 60%;
+  margin: 10px;
+  clear: both;
+}
+.right {
+  float: right;
+  text-align: right;
+}
+.center {
+  width: 60%;
+  text-align: center;
+  margin: 10px 400px;
+  background-color: rgb(229, 225, 220);
+}
+.mid-section {
+  height: 400px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
